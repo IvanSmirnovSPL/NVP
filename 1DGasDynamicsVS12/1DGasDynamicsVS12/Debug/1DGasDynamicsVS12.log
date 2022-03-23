@@ -1,0 +1,11 @@
+﻿  cir.cc
+  grid.cc
+  io.cc
+C:\Users\iesm0\Documents\8_sem_progs\NVP\1DGasDynamicsVS12\1DGasDynamicsVS12\io.cc(32,17): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\iesm0\Documents\8_sem_progs\NVP\1DGasDynamicsVS12\1DGasDynamicsVS12\io.cc(32,17): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\iesm0\Documents\8_sem_progs\NVP\1DGasDynamicsVS12\1DGasDynamicsVS12\io.cc(32,17): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%s"
+  main.cc
+  math_utils.cc
+  utils.cc
+  Создание кода...
+  1DGasDynamicsVS12.vcxproj -> C:\Users\iesm0\Documents\8_sem_progs\NVP\1DGasDynamicsVS12\Debug\1DGasDynamicsVS12.exe

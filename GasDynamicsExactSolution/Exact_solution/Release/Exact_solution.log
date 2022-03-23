@@ -1,0 +1,11 @@
+﻿  godunov.cc
+  grid.cc
+  io.cc
+  main.cc
+  memory.cc
+  utils.cc
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Exact_solution.vcxproj -> E:\iesm\Documents\8_sem_progs\NVP\GasDynamicsExactSolution\Release\Exact_solution.exe
